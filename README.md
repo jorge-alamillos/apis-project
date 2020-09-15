@@ -25,7 +25,9 @@ Run some of these commands in Terminal as follows. Two types of report are avail
 
 ## Path
 
-	- Working_file.ipynb: Jupyter notebook to clean the dataset (internal use)
+#### EN CONSTRUCCIÓN
+
+	- Working_file.ipynb: 
 	- ic data from the dataset
 	- 
 	- 
@@ -40,12 +42,18 @@ Run some of these commands in Terminal as follows. Two types of report are avail
 	 
 
 ## Source and libraries used
-Dataset extracted from Kaggle: [Kaggle link to repo](https://www.google.com)https://www.kaggle.com/tarunpaparaju/apple-aapl-historical-stock-data/notebooks
-ETC
-ETC
-ETC
+#### EN CONSTRUCCIÓN
+- Dataset extracted from Kaggle: [Kaggle link to repo](https://www.google.com)https://www.kaggle.com/tarunpaparaju/apple-aapl-historical-stock-data/notebooks
+- ArgSparse library
+- Yfinance library
+- Plotly library
+- Datetime library
+- Beautiful Soup library
+- Dotenv library
+- Json library
 
 ## Example result
-![example](src/images/Screenshot from 2020-09-15 09-28-50.png)
+![example](src/images/example.png)
+
 
 
